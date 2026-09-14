@@ -8,8 +8,11 @@
  *      https://x.com/YOUR_USERNAME/likes (likes).
  *   2. Open DevTools (F12), go to Console, paste this file, press Enter.
  *   3. To stop, reload the page.
+ *   4. About every 40 to 50 removals, reload the page and run it again.
  *
  * WARNING: deleted posts cannot be recovered. Download your X archive first.
+ * Shared for educational purposes only. The author is not responsible for
+ * any deleted content, data loss, account restriction or other loss.
  * https://github.com/the-arma-of-owl/delete-all-tweets-x-twitter
  * MIT License
  */

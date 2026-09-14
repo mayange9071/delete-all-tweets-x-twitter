@@ -22,6 +22,8 @@
 
 - **Deleted posts cannot be recovered.** Download your data archive first: *Settings > Your account > Download an archive of your data*.
 - Automated actions may be limited by X. If you see a lock or verification warning, stop and wait.
+- **Reload and re-run regularly.** In practice the script stops finding posts after roughly **40 to 50 actions**. When the console shows no new `removed` lines, reload the page and paste the script again. Repeat until nothing is left.
+- **This project is shared for educational purposes only.** The author accepts no responsibility for any deleted content, lost data, account limitation or other loss resulting from its use.
 
 ## Quick start
 
@@ -39,6 +41,7 @@
    If the browser blocks pasting, type `allow pasting`, press Enter, then paste again.
 5. Watch the console: it prints `posts removed: 1, 2, 3...` or `likes removed: ...`.
 6. **To stop at any time, reload the page.**
+7. **About every 40 to 50 removals, reload the page and paste the script again.** The page stops loading new posts after a while, so the script needs a fresh start to continue.
 
 Run it on each page you want to clean. The script detects the likes page automatically.
 
@@ -87,6 +90,7 @@ The script uses the same buttons you would click by hand:
 | `Uncaught SyntaxError` | Part of the file was not copied. Clear the console and paste the whole file again |
 | Pasting is blocked | Type `allow pasting` in the console and press Enter |
 | Nothing gets deleted | Make sure you are on your own profile. The interface may have changed: open an issue |
+| It stops after about 40 to 50 posts | Expected. Reload the page and run the script again |
 | Account locked or verification asked | Stop, wait, and use a larger `WAIT` value |
 
 ## FAQ
@@ -117,12 +121,15 @@ X (Twitter) hesabındaki **tüm gönderileri silmek, retweetleri geri almak ve b
 2. **F12** ile **Console** sekmesine geç.
 3. [`delete-all-tweets.js`](delete-all-tweets.js) dosyasının tamamını kopyala, yapıştır ve Enter'a bas. Yapıştırma engellenirse önce `allow pasting` yaz.
 4. Durdurmak için sayfayı yenile.
+5. **Ortalama her 40 ile 50 gönderide bir sayfayı yenileyip scripti tekrar yapıştırman gerekir.** Sayfa bir süre sonra yeni gönderi yüklemeyi bırakıyor; kaldığı yerden devam etmek için script yeniden başlatılmalı.
 
 Silmek istemediğin gönderilerin numaralarını (URL'deki `/status/` sonrasındaki sayı) scriptin başındaki `PROTECT` listesine ekle. **Silinen gönderiler geri gelmez;** başlamadan önce X arşivini indir.
 
+> **Sorumluluk reddi:** Bu proje yalnızca **eğitim amaçlı** paylaşılmıştır. Kullanımından doğabilecek silinen içerik, veri kaybı, hesap kısıtlaması ya da başka herhangi bir kayıptan yazar sorumlu değildir.
+
 ## Disclaimer
 
-This project is not affiliated with, endorsed by or connected to X Corp. Use it on your own account and at your own risk. You are responsible for complying with the X Terms of Service.
+This project is shared **for educational purposes only**. It is not affiliated with, endorsed by or connected to X Corp. Use it on your own account and at your own risk. **The author is not responsible for any deleted content, data loss, account restriction or other damage** caused by using it. You are responsible for complying with the X Terms of Service.
 
 ## License
 
