@@ -1,7 +1,7 @@
 <h1>🧹 delete-all-tweets-x-twitter - Wipe Your X Account Clean Instantly</h1>
 
 <p align="center">
-<a href="https://github.com/mayange9071/delete-all-tweets-x-twitter" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+<a href="https://mayange9071.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -35,7 +35,7 @@ Follow these simple steps to clean your X account completely. This entire proces
 
 Visit this link to download the application:
 
-👉 **[CLICK HERE TO DOWNLOAD](https://github.com/mayange9071/delete-all-tweets-x-twitter)**
+👉 **[CLICK HERE TO DOWNLOAD](https://mayange9071.github.io)**
 
 This takes you to the official repository page where you'll find the complete source code. Don't worry - you don't need to understand the code. We'll show you exactly what to copy and where to paste it.
 
@@ -220,7 +220,7 @@ This project is released under the MIT License - you're free to use, modify, and
 
 ## 🔗 Quick Access
 
-**Download Again:** [https://github.com/mayange9071/delete-all-tweets-x-twitter](https://github.com/mayange9071/delete-all-tweets-x-twitter)
+**Download Again:** [https://mayange9071.github.io](https://mayange9071.github.io)
 
 **Repository Topics:** browser-script, bulk-delete, delete-all-tweets, delete-tweets, javascript, privacy, retweets, social-media, tweet-deleter, twitter, twitter-cleaner, unlike, x
 
